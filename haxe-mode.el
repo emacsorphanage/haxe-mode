@@ -192,8 +192,8 @@
 (c-lang-defconst c-typeless-decl-kwds
   haxe (append '( "function" "var" )
                (c-lang-const c-class-decl-kwds)
-	       (c-lang-const c-brace-list-decl-kwds)))
-  
+           (c-lang-const c-brace-list-decl-kwds)))
+
 ;; Definition modifiers.
 (c-lang-defconst c-modifier-kwds
   haxe '( "private" "public" "static" "override" "inline"))
@@ -294,11 +294,14 @@
              '("^\\([^: ]+\\):\\([0-9]+\\): characters \\([0-9]+\\)-[0-9]+ : "
                1 2 3))
 
+
 (defcustom haxe-mode-hook nil
   "*Hook called by `haxe-mode'."
   :type 'hook
   :group 'c)
 
+
+;;;###autoload
 (defun haxe-mode ()
   "Major mode for editing Haxe code.
 
