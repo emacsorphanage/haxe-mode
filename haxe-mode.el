@@ -1,7 +1,7 @@
 ;;; haxe-mode.el --- An Emacs major mode for Haxe
 
 ;;; Author: Jens Peter Secher
-;;; URL: http://people.debian.org/~jps/misc/haxe-mode.el
+;;; URL: https://github.com/elpa-host/haxe-mode
 ;;; Version: 0.3.1
 
 ;;; Commentary:
