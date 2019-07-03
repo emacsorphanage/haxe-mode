@@ -66,7 +66,7 @@
 ;;              (setq fill-column 80)
 ;;              (local-set-key [(return)] 'newline-and-indent))))
 
-
+
 ;;; Code:
 
 (require 'cc-mode)
