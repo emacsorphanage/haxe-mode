@@ -3,7 +3,7 @@
 ;; Author: Jens Peter Secher (original)
 ;; Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
 ;; URL: https://github.com/elpa-host/haxe-mode
-;; Version: 0.3.1
+;; Version: 0.3.2
 
 ;;; Commentary:
 
@@ -44,6 +44,7 @@
 ;;    0.2.2 - Recognise keyword override.
 ;;    0.3.0 - Switched to GPLv3 license because that is what cc-mode is using.
 ;;    0.3.1 - Fix compile problem with emacs23.
+;;    0.3.2 - Fix autoload issue.
 ;;
 
 ;;; Usage:
