@@ -1,15 +1,14 @@
 ;;; haxe-mode.el --- An Emacs major mode for Haxe
 
+;; Copyright (C) 2006-2007 Jens Peter Secher
+;; Copyright (C) 2019-2020 Shen, Jen-Chieh <jcs090218@gmail.com>
+
 ;; Author: Jens Peter Secher (original)
 ;; Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
 ;; URL: https://github.com/elpa-host/haxe-mode
 ;; Version: 0.3.2
 
-;;; Commentary:
-
-;; ------------------------------------------------------------------------
-;; Copyright (C) 2006-2007 Jens Peter Secher
-;; Copyright (C) 2019-2020 Shen, Jen-Chieh <jcs090218@gmail.com>
+;; This file is NOT part of GNU Emacs.
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -23,15 +22,14 @@
 
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
-;; ------------------------------------------------------------------------
+
+;;; Commentary:
 
 ;; This is haxe-mode, an Emacs major mode for the Haxe programming
 ;; language (http://haxe.org).
 
 ;; haxe-mode is built on top of the excellent cc-mode, inspired by the
 ;; guide http://cc-mode.sourceforge.net/derived-mode-ex.el.
-
-;; haxe-mode is NOT part of GNU Emacs.
 
 ;;; Versions:
 ;;
