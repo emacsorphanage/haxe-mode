@@ -5,7 +5,7 @@
 
 ;; Author: Jens Peter Secher (original)
 ;; Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
-;; URL: https://github.com/elpa-host/haxe-mode
+;; URL: https://github.com/emacsorphanage/haxe-mode
 ;; Version: 0.3.2
 
 ;; This file is NOT part of GNU Emacs.
