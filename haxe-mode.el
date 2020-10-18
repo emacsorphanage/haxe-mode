@@ -1,4 +1,4 @@
-;;; haxe-mode.el --- An Emacs major mode for Haxe
+;;; haxe-mode.el --- Major mode for editing Haxe files
 
 ;; Copyright (C) 2006-2007 Jens Peter Secher
 ;; Copyright (C) 2019-2020 Shen, Jen-Chieh <jcs090218@gmail.com>
@@ -334,5 +334,4 @@ Key bindings:
   (c-update-modeline))
 
 (provide 'haxe-mode)
-
-;;; haxe-mode.el ends here.
+;;; haxe-mode.el ends here
