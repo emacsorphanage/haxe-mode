@@ -5,7 +5,7 @@ EASK ?= eask
 
 TEST-FILES := $(shell ls test/haxe-mode-*.el)
 
-.PHONY: clean checkdoc lint package install compile test
+.PHONY: clean checkdoc lint package install compile
 
 ci: clean package install compile test
 
