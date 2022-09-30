@@ -287,6 +287,7 @@
     nil
   (setq haxe-mode-map (c-make-inherited-keymap)))
 
+;;;###autoload
 (add-to-list 'auto-mode-alist '("\\.hx\\'" . haxe-mode))
 
 ;; Tell compilation-mode how to parse error messages.  You need to set
