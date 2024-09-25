@@ -1,7 +1,7 @@
 ;;; haxe-mode.el --- Major mode for editing Haxe files
 
 ;; Copyright (C) 2006-2007 Jens Peter Secher <jpsecher@gmail.com>
-;; Copyright (C) 2019-2021 Shen, Jen-Chieh <jcs090218@gmail.com>
+;; Copyright (C) 2019-2024 Shen, Jen-Chieh <jcs090218@gmail.com>
 
 ;; Author: Jens Peter Secher (original)
 ;; Maintainer: Jen-Chieh Shen <jcs090218@gmail.com>
