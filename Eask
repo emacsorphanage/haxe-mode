@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "haxe-mode"
          "0.3.3"
          "Major mode for editing Haxe files")
